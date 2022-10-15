@@ -4,4 +4,4 @@ from cocotb.triggers import Timer
 
 @cocotb.test()
 async def dut_test(dut):
-    pass
+    assert 0, "Test Not Implemented Error"
