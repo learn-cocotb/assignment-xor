@@ -1,4 +1,4 @@
-module xor(input wire a,
+module dut(input wire a,
 	input wire b,
 	output wire y
 );
